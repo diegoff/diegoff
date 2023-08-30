@@ -1,7 +1,7 @@
 ### Olá! 👋
 
 Meu nome é Diego, sócio proprietário da empresa Neorix Tecnologia, empresa focada em startups voltadas a revolucionar a indústria. <br>
-Com mais de 10 anos de experiência, atuo principalmente como engenheiro de software e hardware, além de Full Stack. <br>
+Com mais de 10 anos de experiência, atuo principalmente como engenheiro de software e hardware, além de demais (Full Stack). <br>
 
 <div align="center">
   <img height="150px" src="https://github-stats-git-main-diegoff.vercel.app/api?username=diegoff&show_icons=true&theme=dark&include_all_commits=true&count_private=true&exclude_repo=github-stats"/>
