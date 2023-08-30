@@ -6,8 +6,8 @@ Com mais de 10 anos de experiência, atuo principalmente como engenheiro de soft
 
 <!-- GITHUB STATUS -->
 <div align="center">
-  <img width="80%" src="https://github-readme-stats.vercel.app/api?username=diegoff&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoff&layout=compact&langs_count=10&theme=dark"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api?username=diegoff&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegoff&layout=compact&langs_count=10&theme=dark"/>
 
   <!-- TEMAS: dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
 </div>
