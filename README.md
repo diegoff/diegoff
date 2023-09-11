@@ -4,8 +4,8 @@ Meu nome é Diego, sócio proprietário da empresa Neorix Tecnologia, empresa fo
 Com mais de 10 anos de experiência, atuo principalmente como engenheiro de software e hardware, além de demais (Full Stack). <br>
 
 <div align="center">
-  <img height="150px" src="https://github-stats-o6hi6mfzo-diegoff.vercel.app/api?username=diegoff&show_icons=true&theme=dark&include_all_commits=true&count_private=true&exclude_repo=github-stats"/>
-  <img height="150px" src="https://github-stats-o6hi6mfzo-diegoff.vercel.app/api/top-langs/?username=diegoff&layout=compact&langs_count=10&theme=dark&exclude_repo=github-stats&count-private=true"/>
+  <img height="150px" src="https://github-stats-git-main-diegoff.vercel.app/api?username=diegoff&show_icons=true&theme=dark&include_all_commits=true&count_private=true&exclude_repo=github-stats"/>
+  <img height="150px" src="https://github-stats-git-main-diegoff.vercel.app/api/top-langs/?username=diegoff&layout=compact&langs_count=10&theme=dark&exclude_repo=github-stats&count-private=true"/>
 </div>
 <br>
 <!-- REDES SOCIAIS -->
