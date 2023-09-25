@@ -6,8 +6,8 @@ Com mais de 10 anos de experiência, atuo principalmente como engenheiro de soft
 <!-- CARDS -->
 <div align="center">
   <img height="150px" src="https://github-readme-stats-git-master-diegoff.vercel.app/api?username=diegoff&show_icons=true&theme=dark&include_all_commits=true&count_private=true&exclude_repo=github-readme-stats"/>
-  <img height="150px" src="https://github-readme-stats-git-master-diegoff.vercel.app/api/top-langs/?username=diegoff&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&layout=compact&langs_count=10&theme=dark&exclude_repo=github-readme-stats"/>
-</div>
+  <!--<img height="150px" src="https://github-readme-stats-git-master-diegoff.vercel.app/api/top-langs/?username=diegoff&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&layout=compact&langs_count=10&theme=dark&exclude_repo=github-readme-stats"/>
+</div>-->
 <br>
 <!-- REDES SOCIAIS -->
 <div align="center">
