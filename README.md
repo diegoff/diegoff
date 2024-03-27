@@ -1,7 +1,7 @@
 ### Olá! 👋
 
-Meu nome é Diego, sócio proprietário da empresa Neorix Tecnologia, empresa focada em startups voltadas a revolucionar a indústria. <br>
-Com mais de 10 anos de experiência, atuo principalmente como engenheiro de software e hardware, além de demais (Full Stack). <br>
+Meu nome é Diego, sócio proprietário da empresa Neorix Tecnologia, empresa focada em revolucionar a indústria. <br>
+Com mais de 15 anos de experiência, atuo principalmente como engenheiro de software e hardware, além de demais (Full Stack). <br>
 
 <br>
 <!-- REDES SOCIAIS -->
