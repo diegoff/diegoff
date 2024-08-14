@@ -1,14 +1,14 @@
 ### Olá! 👋
 
-Meu nome é Diego, sócio proprietário da empresa Neorix Tecnologia, empresa focada em revolucionar a indústria. <br>
-Com mais de 15 anos de experiência, atuo principalmente como engenheiro de software e hardware, além de demais (Full Stack). <br>
+Meu nome é Diego, fundador da empresa Neoman, empresa focada em revolucionar a indústria. <br>
+Com mais de 15 anos de experiência, atuo principalmente como engenheiro de software e hardware. <br>
 
+<br>
 <br>
 <!-- CARDS -->
 <div align="center">
-  <img height="150px" src="https://github-readme-stats-git-master-diegoff.vercel.app/api?username=diegoff&show_icons=true&theme=dark&include_all_commits=true&count_private=true&exclude_repo=github-readme-stats"/>
-  <!--<img height="150px" src="https://github-readme-stats-git-master-diegoff.vercel.app/api/top-langs/?username=diegoff&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR&layout=compact&langs_count=10&theme=dark&exclude_repo=github-readme-stats"/>
-</div>-->
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=diegoff&theme=meta-dark&hide_border=true&locale=pt_BR&mode=weekly&hide_longest_streak=false" alt="GitHub Streak" /></a>
+</div>
 <br>
 <br>
 <!-- REDES SOCIAIS -->
