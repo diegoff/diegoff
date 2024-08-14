@@ -1,6 +1,6 @@
 ### Olá! 👋
 
-Meu nome é Diego, fundador da empresa Neoman, empresa focada em revolucionar a manufatura. <br>
+Meu nome é Diego, sócio fundador da Neoman, empresa focada em revolucionar a manufatura industrial. <br>
 Com mais de 15 anos de experiência, atuo principalmente como engenheiro de software e hardware. <br>
 
 <br>
